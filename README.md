@@ -1,4 +1,7 @@
-### Sejam bem 
+### Bem  vindos 🕸️ 
+ Meu nome é Matheus Lima, tenho 14 anos
+ Sou um  estudante do Primeiro ano do Ensinio médio no Colegio Fazenda Velha 🦉, Turma B 
+
 
 <!--
 **Theuzxvv/Theuzxvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
